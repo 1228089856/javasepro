@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class randomgame {
+public class randomGame {
     public static void main(String[] args) {
         //需求：开发一个幸运小游戏，游戏规则如下：
         //游戏后台随机生成1-20之间的5个数（无所谓是否重复），然后让大家来猜数字：
