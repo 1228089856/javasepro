@@ -14,7 +14,6 @@ public class copyingOfArrayElements {
 
         printArray(arr1);
         printArray(arr2);
-
     }
 
     public  static  void printArray(int[] arr){
